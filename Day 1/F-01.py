@@ -1,3 +1,5 @@
+#random new change
+
 def calculate_difference_between_two_dates(date1, date2, difference_type):
     """
     Calculate the difference between two dates in days, weeks, or months.
